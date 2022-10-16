@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arjunbaidya
 - 👀 I’m interested in solving problems with Machine Learning and Deep Learning in areas of predictive analytics, ensemble learning, computer vision, and NLP. 
 - 🌱 I’m always learning and evolving as a machine learning & deep learning practitioner.
-- 💞️ I’m looking to collaborate on various projects related to ML & DL.
+- 💞 I topped the batch in a credit course on Data Science conducted by Indian Institute of Technology, Madras. Was awarded Elite plus Gold certificate. 
 - 📫 You can reach me at: mr.arjunbaidya@gmail.com
 
 <!---
