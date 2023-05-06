@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 I’m @arjunbaidya. I have a Computer Engineering degree and a MBA degree in Marketing & Finance.
+👋 I’m @arjunbaidya. I have a Computer Engineering degree, an MBA degree, and advanced certifications related to Machine Learning. 
 
 👀 I’m interested in solving problems with Machine Learning and Deep Learning in areas of predictive analytics, computer vision, and NLP.
 
