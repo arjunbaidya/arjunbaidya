@@ -8,4 +8,6 @@
 
 💞 I topped the batch in a credit course on Data Science conducted by Indian Institute of Technology, Madras. Was awarded Elite plus Gold certificate.
 
+💼 In the past, I have worked full-time at various top Fortune 500 companies such as Adobe Inc, Hewlett-Packard, Accenture.
+
 📫 You can reach me at: arjun.p.baidya@gmail.com
