@@ -6,7 +6,7 @@
 
 🌱 I’m always learning and evolving as a machine learning & deep learning practitioner.
 
-💞 I topped the batch in a credit course on Data Science conducted by Indian Institute of Technology, Madras. Was awarded Elite plus Gold certificate.
+💞 I topped the batch with 90% net score in a credit course on Data Science conducted by Indian Institute of Technology, Madras. Was awarded Elite plus Gold certificate.
 
 💼 In the past, I have worked full-time at various top Fortune 500 companies such as Adobe Inc, Hewlett-Packard, Accenture.
 
